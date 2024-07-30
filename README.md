@@ -56,6 +56,10 @@ Arithmetic Operators: Demonstrate basic mathematical operations such as addition
 Assignment Operators: Show how to assign values to variables using =, +=, -=, *=, /=, and %=.
 Comparison Operators: Illustrate how to compare values using ==, !=, <, >, <=, and >=
 
+## Output - 
+<img width="687" alt="Screenshot 2024-07-30 at 3 35 18 PM" src="https://github.com/user-attachments/assets/67377326-8a0d-4fb9-90ab-42bd7241fe03">
+
+
 ## Conclusion - 
 These programs provide a clear understanding of how to use various operators in C++.
 Mastery of operators is essential for performing calculations, making decisions, and controlling the flow of a program.
