@@ -5,6 +5,19 @@ To write C++ programs that demonstrate the use of different operators such as ar
 ## Theory - 
 Operators are special symbols used to perform operations on variables and values. 
 Understanding how to use different operators is fundamental to performing calculations, assigning values, and making comparisons in programming.
+
+### Arithmetic Operators:
+
+These include +(addition), -(subtraction), *(multiplication), /(division), and % (modulus). They are used to perform basic mathematical operations in C++.
+
+### Assignment Operators:
+
+These operators are used to assign values to variables. The basic assignment operator = assigns a value to a variable, while operators like +=, -=, *=, and /= combine the particular arithmetic operation with assignment.
+
+### Comparison Operators:
+
+These include ==(equal to), !=(not equal to), >(greater than), <(less than), >=(greater than or equal to), and <=(less than or equal to). They are used to compare values and give the result as a boolean value either true or false.
+
 ## Code - 
 ```
 #include <iostream>
